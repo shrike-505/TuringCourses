@@ -101,6 +101,7 @@ nav:
     - 计算机视觉: major_elective/computer_vision/index.md
     - 社交网络安全与隐私: major_elective/social_network_security/index.md
     - 量子计算理论基础与软件系统: major_elective/quantum_computing/index.md
+    - 多媒体安全: major_elective/multimedia_security/index.md
   - 短学期课程:
     - short_term/index.md
     - 固定课程:
@@ -117,6 +118,7 @@ nav:
       - short_term/index.md
       - C++ 项目管理及工程实践: short_term/cpp_project/index.md
       - Rust 开发实训: short_term/rust/index.md
+      - 大模型应用与实践: short_term/llm_practice/index.md
   - 跨专业课程:
     - others/index.md
     - 常微分方程: others/ode/index.md
@@ -124,6 +126,7 @@ nav:
     - 数据建模与分析: others/data_modeling_and_analysis/index.md
     - 抽象代数: others/abstract_algebra/index.md
     - 数论导引: others/number_theory/index.md
+    - 随机过程: others/stochastic_process/index.md
     - 经济学类课程集: others/economics/index.md
     - 金融学类课程集: others/finance/index.md
     - B/S 体系软件设计: others/browser_server_software/index.md
